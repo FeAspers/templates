@@ -10,4 +10,10 @@
   </body>
 
 
-<!-- 
+<!-- Add Page Icon -->
+  <head>
+    <link rel="shortcut icon" type="image/x-icon" href="https://ubg100.github.io/ubg100.png" />
+  </head>
+
+
+<!-- -->
