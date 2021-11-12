@@ -1,5 +1,13 @@
 <!-- Add StyleSheet.css -->
+  <head>
+    <link rel="stylesheet" href="style.css" type="text/css"> 
+  </head>
+
 
 <!-- Add JavaScript.js -->
+  <body>
+    <script src="plugin.js"></script>
+  </body>
+
 
 <!-- 
